@@ -14,6 +14,15 @@ This project builds and tunes classification models to predict the presence of h
 | File Name                                          | Description                                       |
 | -------------------------------------------------- | ------------------------------------------------- |
 | `Model_Evaluation_and_Hyperparameter_Tuning.ipynb` | Main notebook for data prep, modeling, and tuning |
+## 📦 Project Files
+
+| File Name                                   | Description                                          |
+|--------------------------------------------|------------------------------------------------------|
+| `Model_Evaluation_and_Hyperparameter_Tuning.ipynb` | Main notebook for data prep, modeling, and tuning   |
+| `heart_disease_uci.csv`                    | The dataset used for training and evaluation         |
+| `heart_disease_model.pkl`                  | Saved trained model (for deployment or reuse)        |
+| `README.md`                                | Project documentation                                |
+
 | `heart_disease_model.pkl`                          | Saved trained model (for deployment or reuse)     |
 | `README.md`                                        | Project documentation                             |
 
